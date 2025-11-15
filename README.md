@@ -1,1 +1,1 @@
-My-app Demo
+My-app Demo project
